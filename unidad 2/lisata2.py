@@ -26,6 +26,6 @@ print("\n📌 Tu lista de compras es:")
 
 for producto in lista_compras:
 	  print(f"- {producto}")
-	  
+
 print("\n✅ ¡Lista creada con éxito!")
 #https://www.webfx.com/tools/emoji-cheat-sheet/
