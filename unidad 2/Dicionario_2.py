@@ -1,3 +1,4 @@
+#
 import json
 
 biblioteca = {
@@ -12,7 +13,7 @@ biblioteca = {
         "géneros": ["Novela de caballería", "Satira"]
     },
     "987-84-450-00668-7": {
-        "título":"EEl Señor de los Anillos III. El Retorno del Rey",
+        "título":"EEl Señor de los Anillos III.(El Retorno del Rey)",
         "autor":["J. R. R. Tolkien"],
         "géneros": ["Fantacia ","Guerra"]
     },
@@ -27,7 +28,6 @@ biblioteca = {
         "géneros":["fantasía, aventuras,"]
     }
     
-
 
 }
 

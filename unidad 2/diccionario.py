@@ -22,3 +22,4 @@ print("\nRecorriendo el diccionario:")
 for Nombre, Edad in Edades.items():         
     print( f"{Nombre} Tiene {Edad} Años")
     #Recorrer el print un espacio acia tras 
+    #LOL
