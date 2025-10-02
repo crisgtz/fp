@@ -31,6 +31,6 @@ biblioteca = {
 
 }
 
-isbn = "978-84-376-0494-7"
+for  biblioteca in "978-84-376-0494-7","978-60-752-7967-1"
 info_libro = biblioteca.get(isbn)          
 print("\nInformación del libro:", info_libro)
