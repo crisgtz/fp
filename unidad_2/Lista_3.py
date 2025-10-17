@@ -28,6 +28,7 @@ for preparartoria in mis_datos:
 print("\n Tu lista de mis datos es: ")
 for lugar_de_residencia in mis_datos:
     print(f"- {lugar_de_residencia}")
+    
 print("\n✅ ¡Lista creada con éxito!")
 
 #https://www.webfx.com/tools/emoji-cheat-sheet/
