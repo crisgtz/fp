@@ -13,7 +13,7 @@ biblioteca = {
         "géneros": ["Novela de caballería", "Satira"]
     },
     "987-84-450-00668-7": {
-        "título":"EEl Señor de los Anillos III.(El Retorno del Rey)",
+        "título":"El Señor de los Anillos III.(El Retorno del Rey)",
         "autor":["J. R. R. Tolkien"],
         "géneros": ["Fantacia ","Guerra"]
     },
@@ -30,7 +30,6 @@ biblioteca = {
     
 
 }
-
-for  biblioteca in "978-84-376-0494-7","978-60-752-7967-1"
+isbn = "978-84-376-0494-7"
 info_libro = biblioteca.get(isbn)          
 print("\nInformación del libro:", info_libro)

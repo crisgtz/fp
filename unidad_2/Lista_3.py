@@ -11,7 +11,7 @@ preparartoria = input("ingresar preparartoria: ")
 
 mis_datos.append(preparartoria)
 
-lugar_de_residencia =("ingresasr lugar_de_residencia : ")
+lugar_de_residencia =input("ingresasr lugar_de_residencia : ")
 
 mis_datos.append(lugar_de_residencia)
 
@@ -21,8 +21,8 @@ for nombre in mis_datos:
 
 
 print("\n Tu lista de mis datos es: ")
-for preparartoria in mis_datos:
-    print(f"- {preparartoria}")
+for lugar_de_residencia in mis_datos:
+    print(f"- {lugar_de_residencia}")
 
 
 print("\n Tu lista de mis datos es: ")
