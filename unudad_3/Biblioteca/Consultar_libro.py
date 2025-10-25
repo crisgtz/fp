@@ -13,6 +13,6 @@ def consultar_libros():
             
     except FileNotFoundError:
         print(" Aún no existe el archivo de libros.")
-
-if __name__ == "__main__":
-    consultar_libros()
+        
+#if __name__ == "__main__":
+#       consultar_libros()
